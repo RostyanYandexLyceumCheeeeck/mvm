@@ -5,7 +5,10 @@ DEBUG = False
 
 
 def algorithm_TDMA(a, b, c, d):
-    """Метод прогонки для системы: a_i*y_{i-1} + b_i*y_i + c_i*y_{i+1} = d_i"""
+    """
+    TDMA -- it's Tridiagonal matrix algorithm.
+    Метод прогонки для системы: a_i*y_{i-1} + b_i*y_i + c_i*y_{i+1} = d_i
+    """
     n = len(d)
     y = np.zeros(n)
     

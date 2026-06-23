@@ -1,4 +1,4 @@
-![alt text](<../src/task1.png>)
+![task_01](<../src/task_01.png>)
 
 > $(-1)^S \cdot 1.M \cdot 2^{E-bias}$  <=== нормализованное число
 >

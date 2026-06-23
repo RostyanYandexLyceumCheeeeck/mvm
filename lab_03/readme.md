@@ -1,3 +1,8 @@
+![task_03](../src/task_03.png)
+
+------------------------------
+------------------------------
+
 ![alt text](../src/Default_formula.png)
 
 ![alt text](../src/Chebyshev_formula.png)
